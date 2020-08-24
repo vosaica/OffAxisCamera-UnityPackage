@@ -6,6 +6,6 @@ The file includes couple files and a prefab.
 
 The off axis camera allows you to distort the view for simulating looking at the screen from different angles.
 
-I used openCV with haar-like features to track my face. By moving the camera to the detected position, I could get a result like this:
+I used openCV with haar-like features to track my face. By moving the game camera to the detected position, I could get a result like this:
 
 ![Result](asset/Result.gif)
